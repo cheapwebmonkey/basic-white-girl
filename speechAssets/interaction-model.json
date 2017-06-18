@@ -1,0 +1,36 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "a fact",
+        "a basic white girl fact",
+        "tell me a fact",
+        "tell me a basic white girl fact",
+        "give me a fact",
+        "give me a basic white girl fact",
+        "tell me trivia",
+        "tell me a basic white girl trivia",
+        "give me trivia",
+        "give me a basic white girl trivia",
+        "give me some information",
+        "give me some basic white girl information",
+        "tell me something",
+        "give me something"
+      ],
+      "slots": []
+    }
+  ]
+}
