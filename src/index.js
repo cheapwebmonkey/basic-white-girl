@@ -1,7 +1,7 @@
 'use strict';
 var Alexa = require('alexa-sdk');
 
-var APP_ID = "amzn1.ask.skill.971bb2c0-6dad-4c73-9a24-c1d59a98dd48";
+var APP_ID = "ur skill id here";
 
 var SKILL_NAME = "Basic White Girl Facts";
 var GET_FACT_MESSAGE = "Like, here's your fact or whatevs: ";
