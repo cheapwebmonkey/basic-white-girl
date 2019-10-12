@@ -19,7 +19,15 @@ var data = [
     "So, like, basic white girls think they are totes unique and special and trendsetting. Literally.",
     "Ummmm, Basic White Girls totes take like, seventy five milllion selfies before they find the perf one to Insta.",
     "Quoting Mean Girls like, automagically confers Basic White Girl status onto a reg white girl, mos def.",
-    "Do you totes love Lisa Frank? Then you're totes a Basic White Girl."
+    "Do you totes love Lisa Frank? Then you're totes a Basic White Girl.",
+    "Like, OMG!, They have pumpkin spiced dog treats!",
+    "Literally, I can't", 
+    "Essential oils are like, totally legit",
+    "I only drink vegan cage free water, becasue, like, Goop said so",
+    "Deconstructed meals are all the rage, like, I never knew how interesting a sandwich could be.",
+    "No laws when you're drinking the claws, like, totally",
+    "Hard seltzer is so 2 months ago, we're all about the pumpkin cider now",
+    "Its fall and I can't find my leggings and flannel!"
 ];
 
 
